@@ -1,0 +1,7 @@
+rootProject.name = "Media"
+include ':app'
+include ':p1261mediaplayer'
+include ':p1271soundpool'
+include ':p1281audiofocus'
+include ':p1291mediarecorderaudio'
+include ':p1301audiorecorder'
